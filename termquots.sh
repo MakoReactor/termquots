@@ -1,23 +1,33 @@
 #!/bin/bash
+# termquots.sh -> It's refer to name Terminal Quotes
+#
 # Put quotes on the terminal when it is launched.
-# This script uses the sort command with -R, and the tail -1 command to get, just
-# one line.
 # Added option to see authors
 # 
 # Todo:
-# # quots per author
+# -> quotes per author
 #
-# Version-1.3 - Create functions for some options
+##Version-1.3 - Create functions for some options
+# Version-1.4 - Create a main function and constants of paths
 #
-#
+# Constants
+FILE_DB_PATH=~/bin/termquots/db_quotes.txt
+FILE_SHELL_PATH=~/bin/termquots/termquots.sh
 
 
+
+ERR_MESSAGE="
+	$(basename $0): invalid option $1
+	Try '$(basename $0) -h, ' for more information.
+"
+VERSION=$(egrep "^# Version" "$FILE_SHELL_PATH" | cut -d' ' -f 2)
 
 
 HELP_MESSAGE(){
 	#echo "The name is a abbreviation of Quote of the day" 	
-	echo "Name: $(basename "$0") version-1.3"
+	echo "Name: $(basename "$0") $VERSION"
 	echo "Usage: $(basename "$0") [ OPTIONS ]"
+	echo "   Without an option  show a famous quote on the screen"
 	echo "  -h, --help          show this help and exit"
 	echo "  -A, --Authors       show the name of all authors"
     echo "  -v, --version       show the version and exit"
@@ -25,20 +35,12 @@ HELP_MESSAGE(){
 }
 
 DAY_MESSAGE(){
-	echo "	*** Quote of the day ***"
+	echo "	*** Frase do dia ***"
 	echo ""
-	sort -R ~/bin/termquots/db_quotes.txt | tail -15 | sort -R | tail -1
+	sort -R "$FILE_DB_PATH" | tail -15 | sort -R | tail -1
 	echo " "
     exit 0	
 }
-
-ERR_MESSAGE="
-	$(basename $0): invalid option $1
-	Try '$(basename $0) -h, --help' for more informtion.
-"
-
-VERSION=$(egrep "^# Version" ~/bin/termquots/termquots.sh | cut -d' ' -f 2)
-
 
 
 if [ -n "$1" ]
@@ -48,7 +50,7 @@ then
 		"-h" | "--help") HELP_MESSAGE 
 			;;
 
-		"-A" | "--Authors") cat ~/bin/termquots/db_quotes.txt | cut -d '"' -f 3 | sort | uniq 
+		"-A" | "--Authors") cat "$FILE_DB_PATH" | cut -d '"' -f 3 | sort | uniq 
 			;;
                 
         "-v" | "--version") echo "$VERSION"
@@ -64,12 +66,3 @@ then
 else
 	DAY_MESSAGE
 fi
-
-
-		
-
-	
-
-		
-
-
