@@ -1,5 +1,8 @@
-Install: Turn executable and run the script named setup.sh inside the folder.
+Clone o repostitório e execute o script "sh ./instalar.sh" que esta dentro da pasta sem as aspas.
 
+Depois edite o arquivo .bashrc e coloque no final o comando "qotd" e salve.
+
+Modo de usar:
 Usage: qotd -h
 
 Name: qotd Version-1.4
