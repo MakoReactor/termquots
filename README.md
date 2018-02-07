@@ -1,7 +1,9 @@
 Install: Turn executable and run the script named setup.sh inside the folder.
 
 Usage: qotd -h
+
 Name: qotd Version-1.4
+
 Usage: qotd [ OPTIONS ]
    Without an option  show a famous quote on the screen   
   -h, --help          show this help and exit  
