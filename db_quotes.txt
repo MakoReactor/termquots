@@ -1,3 +1,143 @@
+"A vida acontece nos fatos, não nas palavras. Confie apenas nos fatos" Alfred Adler
+"Programação orientada a objetos é uma péssima ideia, que só poderia ter nascido na Califórnia." Edsger Dijkstra
+"A arte da previsão consiste em antecipar o que acontecerá e depois explicar porque não aconteceu" Winston Churchill
+"Nothing exists except atoms and empty space; everything else is opinion." Democritus of Abdera (460-370 BC)
+"Se você não comete erros, você é incapaz de tomar decisões." Warren Buffett
+"O que me preocupa não é o grito dos maus. É o silêncio dos bons." Martin Luther King
+"Nunca é tão fácil perder-se como quando se julga conhecer o caminho." Provérbio Chinês
+"Um homem que nunca muda de opinião, em vez de demonstrar a qualidade da sua opinião demonstra a pouca qualidade da sua mente." Marcel Achard
+"To err is human, to forgive, beyond the scope of the Operating System." Anônimo
+"Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar com você." Cynthia Kersey
+"A tarefa dos líderes é descobrir qual é o sonho de seus subordinados" Waldez Ludwig
+"Existem duas tragédias na vida. Uma delas é não conseguir o que o seu coração deseja; a outra, é conseguir." Bernard Shaw
+"O futuro tem muitos nomes. Para os fracos, é o inatingível. Para os temerosos, o desconhecido. Para os valentes, a oportunidade." Victor Hugo
+"Por cada minuto que nos zangamos, perdemos 60 segundos de felicidade." Ralph Emerson
+"Tentar e falhar é, pelo menos, aprender. Não chegar a tentar é sofrer a inestimável perda do que poderia ter sido." Geraldo Eustáquio
+"Não é errado ter opiniões firmes. Errado é não ter nada além disso." Anthony Weston
+"Existe o risco que você não pode jamais correr e existe o risco que você não pode deixar de correr." Peter Drucker
+"É melhor correr o risco de salvar um homem culpado do que condenar um inocente." Voltaire
+"Nunca diga às pessoas como fazer as coisas. Diga-lhes o que deve ser feito e elas surpreenderão você com sua engenhosidade." George Patton
+"Acredite que você pode, assim você já está no meio do caminho." Theodore Roosevelt
+"Um aspecto essencial da criatividade é não ter medo de fracassar." Dr. Edwin Land
+"Tolo é aquele que naufragou duas vezes seus navios e continua culpando o mar." Autor desconhecido
+"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning." Rich Cook 
+"Problemas podem tornar-se oportunidades quando as pessoas certas vierem junto" Robert South
+"Você ganha força, coragem e confiança em toda experiência na qual você realmente enfrenta o medo." Eleanor Roosevelt
+"Never explain -- your friends do not need it and your enemies will not believe you anyway." Elbert Hubbard (1856 - 1915)
+"Quanto mais você sua nos treinamentos, menos sangra no campo de batalhas." Colonel Red
+"Às vezes, o melhor meio de convencer alguém que está errado é deixá-lo seguir seu caminho." Red O´Donnell
+"Não há nada como regressar a um lugar que está igual para descobrir o quanto a gente mudou" Nelson Mandela
+"O homem deve criar as oportunidades e não somente encontrá-las." Francis Bacon
+"A aprendizagem não ocorre quando se tem todas as respostas, mas quando se convive com as perguntas." Max Dupree
+"Algumas quedas servem para que nos levantemos mais felizes" William Shakespeare
+"A perfeição da própria conduta consiste em manter cada um a sua dignidade sem prejudicar a liberdade alheia." Voltaire
+"Um aposento sem livros é um corpo sem alma." Cícero
+"Pensar é o trabalho mais difícil que existe. Talvez por isso tão poucos se dediquem a ele." Henry Ford
+"Comece por fazer o que é necessário, depois o que é possível e de repente estará a fazer o impossível." São Francisco de Assis
+"A imperfeição é bela, a loucura é genial, e é melhor ser absolutamente ridículo do que absolutamente chato." Marylin Monroe
+"Só erra quem produz. Mas, só produz quem não tem medo de errar" Bob Marley
+"Você ganha força, coragem e confiança em toda experiência na qual você realmente enfrenta o medo." Eleanor Roosevelt
+"Sucesso parece ser em grande parte uma questão de continuar depois que outros desistiram" William Feather
+"A força não provém de uma capacidade física e sim de uma vontade indomável" Mahatma Gandhi
+"Os sonhos são como os deuses. Se não se acredita neles, eles deixam de existir" Cícero
+"O fracasso é a oportunidade de se começar de novo, com inteligência." Henry Ford
+"Viva como se fosse morrer amanhã. Aprenda como se fosse viver para sempre." Mahatma Gandhi
+"A verdade nunca é injusta; pode magoar, mas não deixa ferida." Eduardo Girão
+"Um dia antes de algo ser um enorme progresso, ele não passa de uma ideia maluca." Peter Diamandis
+"Never explain -- your friends do not need it and your enemies will not believe you anyway." Elbert Hubbard (1856 - 1915)
+"A coisa mais indispensável a um homem é reconhecer o uso que deve fazer do seu próprio conhecimento." Platão
+"Quem não lê bons livros não tem vantagem sobre quem não sabe ler." Mark Twain
+"He who knows others is learned. He who knows himself is wise." Lao-Tzu
+"A journey of a thousand miles must begin with a single step." Lao-Tzu 
+"O poder do líder nasce da sua capacidade de fazer os demais se sentirem poderosos." Ben Zander
+"Um homem nunca sabe aquilo de que é capaz até que o tenta fazer." Charles Dickens
+"A candle loses nothing by lighting another candle." Erin Majors 
+"A vergonha de confessar o primeiro erro leva a cometer muitos outros." Jean de la Fontaine
+"Os grandes navegadores devem sua reputação aos temporais e tempestades." Epicuro
+"O homem não é nada além daquilo que a educação faz dele." Immanuel Kant
+"Sempre que ensinares, ensina também a duvidares do que ensina." Autor Desconhecido
+"Não somos responsáveis apenas pelo que fazemos, mas também pelo que deixamos de fazer." Molière
+"Rezar para o Sol ou rezar para Deus resulta na mesma proporção de pedidos atendidos." Isaac Asimov
+"Se a Bíblia está errada ao nos dizer de onde viemos, como podemos confiar nela para nos dizer para onde estamos indo?" Justin Brown
+"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing." George Bernard Shaw 
+"O que você faz enquanto procrastina é provavelmente o trabalho que você deve fazer pelo resto de sua vida." Jessica Hische
+"My grandfather once told me that there were two kinds of people: those who do the work and those who take the credit. He told me to try to be in the first group; there was much less competition." Indira Gandhi
+"Quando se busca o cume da montanha, não se dá importância às pedras do caminho." Autor desconhecido
+"Com organização e tempo, acha-se o segredo de fazer tudo e bem feito." Pitágoras
+"Um homem nunca sabe aquilo de que é capaz até que o tenta fazer." Charles Dickens
+"Ser feliz sem motivo é a mais autêntica forma de felicidade." Carlos Drummond de Andrade
+"A alegria que se tem em pensar e aprender faz-nos pensar e aprender ainda mais." Aristóteles
+"O homem está sempre disposto a negar aquilo que não compreende." Luigi Pirandello
+"The weak can never forgive. Forgiveness is the attribute of the strong." Mahatma Gandhi 
+"Um homem é apenas o produto dos seus pensamentos. O que ele pensa, ele se torna." Mahatma Gandhi
+"Encontrar defeito é fácil, mas fazer melhor pode ser difícil." Plutarco
+"Tudo é ousado para quem a nada se atreve." Fernando Pessoa
+"Se não posso realizar grandes coisas, posso pelo menos fazer pequenas coisas com grandeza." Clarck
+"Animals are reliable, many full of love, true in their affections, predictable in their actions, grateful and loyal. Difficult standards for people to live up to." Alfred A. Montapert 	  	
+"Alguém está sentado na sombra hoje porque alguém plantou uma árvore um tempão atrás." Warren Buffett
+"Aprender é descobrir o que já se sabe." Richard Bach
+"Cuide bem de seus animais, simplesmente porque isto é bom." Peter Singer
+"Penso noventa e nove vezes e nada descubro; deixo de pensar, mergulho em profundo silêncio - e eis que a verdade se me revela." Albert Einstein
+"Um país se faz com homens e livros." Monteiro Lobato
+"A melhor forma de prever o futuro é criá-lo." Peter Druker
+"Sucesso em investimentos não depende do que você compra, depende do preço que você paga." Howard Marks
+"A genialidade é a habilidade de reduzir o complicado ao simples." C. W. Ceram
+"Aprende a viver e saberás morrer bem." Confúcio
+"A velocidade só faz sentido se você estiver na direção certa." Autor desconhecido
+"Uma biblioteca é um hospital para a mente." Autor desconhecido
+"Os espíritos medíocres geralmente condenam tudo quanto ultrapassa sua pequena estatura." La Rochefoucauld
+"Aquele que controla o passado controla o futuro. Aquele que controla o presente controla o passado." George Orwell
+"A chave do sucesso não adianta muito até que se descubra a fechadura certa para inseri-lá." Tehyi Hsieh
+ "Todo indivíduo é um gênio. Mas se você julgar um peixe pela habilidade de escalar árvores, ele passará a vida acreditando ser um imbecil." Albert Einstein
+"Muitas vezes não é a motivação que precisa mudar, e sim, o foco." Raphael Michael
+"O sábio sempre procura aprender. O ignorante sempre quer ensinar." Nina Yomerowska
+"Aquele que fala irrefletidamente assemelha-se ao caçador que dispara sem apontar." Montesquieu
+"Os grandes navegadores devem sua reputação aos temporais e tempestades." Epicuro
+"Questione tudo. Aprenda algo. Não responda nada." Eurípides
+"O insucesso é apenas uma oportunidade para recomeçar de novo com mais inteligência." Henry Ford
+"A esperteza serve para tudo e não é suficiente para nada." Autor Desconhecido
+"Educar é crescer. E crescer é viver. Educação é, assim, vida no sentido mais autêntico da palavra." Anísio Teixeira
+"Só existe uma maneira de se evitar as críticas: não fazer nada, não dizer nada e não ser nada." Aristóteles
+"Não levante a sua voz, melhore os seus argumentos." Desmond Tutu
+"Se eu tivesse somente 8 horas para cortar uma árvore gastaria 6 afiando o machado." Abraham Lincoln
+"Mares tranquilos não produzem bons marinheiros." Provérbio africano
+"Ninguém descobre novas terras, sem consentir em perder de vista a costa por um longo tempo." André Gide
+"Não é a montanha que conquistamos, mas nós mesmos." Edmund Hillary
+"O passado é uma lição para se meditar, não para se reproduzir." Mario de Andrade
+"O grande triunfo do adversário é fazer-nos crer naquilo que diz de nós." Paul Valéry
+"Podemos converter alguém pelo que somos, nunca pelo que dizemos." H. Rohden
+"Se as pessoas soubessem quanto trabalhei para atingir a maestria, não pareceria tão maravilhoso." Michelangelo
+"Grandes realizações não são feitas por impulso, mas por uma soma de pequenas realizações." Vincent Van Gogh
+"Ser líder é como ser uma dama: se você precisa provar que é, então você não é." Margareth Thatcher 
+"O melhor líder é aquele que as pessoas mal sabem que existe. Quando as coisas tiverem sido feitas, as pessoas dirão: ´nós fizemos´" Lao Tzu
+"Aquele que duvida e não investiga torna-se não só infeliz mas também injusto." Pascal
+"Não devemos ter medo dos confrontos. Até os planetas se chocam e do caos nascem as estrelas." Charles Chaplin
+"Se você acha que a educação é cara, experimente a ignorância." Derek Bok
+"Sometimes the most ordinary things could be made extraordinary, simply by doing them with the right people." Elizabeth Green
+"Live your life and forget your age." Norman Vincent Peale
+"The greatest lesson in life is know that even fools are right sometimes" Winston Churchill
+"A arte de vencer aprende-se nas derrotas." Simon Bolíva
+"Daqui a um ano, você vai desejar ter começado hoje" Karen Lamb
+"Os covardes morrem muitas vezes antes de morrer de verdade." Júlio César
+"Somos o resultado das viagens que fazemos, dos livros que lemos e das pessoas que amamos" Airton Ortiz
+"Dinheiro perdido, nada perdido; Saúde perdida, muito perdido; Caráter perdido, tudo perdido." Provérbio chinês
+"Se você desenvolve os hábitos do sucesso, você fará do sucesso um hábito." Michael E. Angier
+"Um homem é prisioneiro de seus talentos." Charlie Munger
+"É mais importante fazer as coisas que devem ser feitas do que fazer as coisas como devem ser feitas." Peter Drucker
+"Eu aprendi que a coragem não é a ausência do medo, mas o triunfo sobre ele." Nelson Mandela
+"Você não precisa ser grande para começar, mas você vai ter que começar para chegar a ser grande." Zig Ziglar
+"A vida humana é um mecanismo de escolha, preferência e adiamento. Qualquer escolha é também uma exclusão. Julián Marías
+"Com seu exemplo de vida e conduta, você prega um melhor sermão do que com suas palavras." Oliver Goldsmith
+"Metade dos nossos erros na vida nasce do fato de sentirmos quando devíamos pensar e pensarmos quando devíamos sentir." J. Collins
+"Não é errado ter opiniões firmes. Errado é não ter nada além disso." Anthony Weston
+"Desafios preparam pessoas comuns para futuros extraordinários." C. S. Lewis
+"Você pode vencer pela inteligência, pela habilidade ou pela sorte, mas nunca sem trabalho." Autor desconhecido	 
+"Aprendi a não tentar convencer. O trabalho de convencer é uma falta de respeito, uma tentativa de colonização do outro." José Saramago
+"A verdadeira vitória não é derrotar alguém forte, ... é ser capaz de proteger alguém que você ama de verdade" Pai do Might Guy
+"Um grama de exemplos, vale mais que uma tonelada de conselhos." Autor desconhecido
+"O caminho mais curto para se fazer muitas coisas é fazer somente uma coisa por vez." Sydney Smiles
+"Foco e simplicidade...quando você chegar lá, conseguirá mover montanhas." Steve Jobs
+"Não há maior riqueza que o conhecimento, nem pobreza que a ignorância." Ali ibn Abi-Talib
 "Crer é muito monótono, a dúvida é apaixonante." Oscar Wilde
 "Pássaros criados em gaiola acreditam que voar é uma doença." A. Jodorowsky.
 "Eu acredito demais na sorte. E tenho constatado que quanto mais duro eu trabalho, mais sorte eu tenho." Thomas Jefferson
@@ -81,7 +221,7 @@
 "Pensar é fácil. Agir é difícil. Agir conforme o que pensamos, isso ainda o é mais." Johann Goethe
 "Você pode encarar um erro como uma besteira a ser esquecida, ou como um resultado que aponta uma nova direção." Steve Jobs
 "Você nunca achará o arco-íris, se você estiver olhando para baixo." Charles Chaplin
-"Age and treachery will always overcome youth and skill." Desconhecido
+"Age and treachery will always overcome youth and skill." Autor desconhecido
 "O que é certo, nem sempre é popular e o que é popular, nem sempre é certo." Albert Einstein
 "Dificuldades preparam pessoas comuns para destinos extraordinários." C. S. Lewis
 "O homem que move montanhas, começa carregando pedras pequenas." Provérbio Chinês
@@ -89,7 +229,7 @@
 "O homem não é nada além daquilo que a educação faz dele." Immanuel Kant
 "Execute every act of thy life as though it were thy last." Marcus Aurelius 
 "Não espere por uma crise para descobrir o que é importante na sua vida." Platão
-"Que você não perca a vida apenas tentando ganhá-la." Autor Desconhecido
+"Que você não perca a vida apenas tentando ganhá-la." Autor desconhecido
 "Julgue um homem por suas perguntas, não por suas respostas." Voltaire
 "Eu tive sorte, mas só depois que comecei a treinar 10 horas por dia." Tiger Woods
 "Renda-se, como eu me rendi. Mergulhe no que você não conhece como eu mergulhei. Não se preocupe em entender, viver ultrapassa qualquer entendimento." Clarice Lispector
@@ -125,3 +265,5 @@
 "Nada se esquece mais lentamente que uma ofensa e nada mais rápido que um favor." Martinho Lutero
 "Não tenho tempo pra mais nada, ser feliz me consome muito." Clarice Lispector
 "Nós somos aquilo que fazemos repetidamente. Excelência, então, não é um modo de agir, mas um hábito." Aristóteles
+"Viva como se fosse morrer amanhã. Aprenda como se fosse viver para sempre." Mahatma Gandhi
+"The mind is not a vessel to be filled, but a fire to be ignited." Plutarch
