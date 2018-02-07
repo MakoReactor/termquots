@@ -1,4 +1,4 @@
-Clone o repostitório e execute o script "sh ./instalar.sh" que esta dentro da pasta sem as aspas.
+Clone o repostitório e execute o script "bash instalar.sh" que esta dentro da pasta sem as aspas.
 
 Depois edite o arquivo .bashrc e coloque no final o comando "qotd" e salve.
 
